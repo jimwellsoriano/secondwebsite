@@ -1,0 +1,60 @@
+.chat-section-container{
+    padding-top: 80px;
+}
+
+
+.chat-Feature-Heading{
+    font-size: 20px;
+    color:rgb(54, 67, 90);
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.chat-Lorem-ipsum-dolor{
+    margin-bottom: 20px;
+    font-size: 15px;
+    color: rgb(88, 106, 143);
+}
+
+.chat-Curabitur-ullamcorper{
+    margin-bottom: 20px;
+    font-size: 15px;
+    color: rgb(88, 106, 143);
+}
+
+.lightbulb-icon-container{
+    display: flex;
+    align-items: center;
+    font-size: 17px;
+    color:rgb(86, 109, 150);
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.lightbulb{
+    margin-right: 15px;
+    font-size: 25px;
+    color: rgb(54, 184, 67);
+    margin-top: 5px;
+}
+
+.chat-Vestibulum-fringilla{
+    font-size: 15px;
+    color:rgb(88, 106, 143);
+    margin-bottom: 20px;
+}
+
+.chat-div-container{
+    display: flex;
+    justify-content: center;
+}
+
+.chat-picture{
+    margin-left: 80px;
+    margin-right: 110px;
+}
+
+.chat-text-container{
+    margin-left: 70px;
+    margin-right: 70px;
+}

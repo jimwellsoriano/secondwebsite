@@ -1,0 +1,50 @@
+.footer-section{
+    background: rgb(25, 31, 42);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 60px;
+}
+
+.last-icon1 div{
+    font-size: 20px;
+    width: 40px;
+    height: 40px;
+    border-radius: 25px;
+    background: rgba(255, 255, 255, .4);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    color:rgb(25, 31, 42) ;
+    margin-right: 10px;
+    margin-bottom: 25px;
+    transition: background-color 1s ;
+}
+
+.last-icon1{
+    display: flex;
+    
+}
+
+.last-icon1 div:hover{
+    background-color:white ;
+}
+
+
+.template-copy{
+    color:rgba(255, 255, 255, .4);
+    font-size: 14px;
+}
+
+.template-copy a{
+    text-decoration: none;
+    color:rgba(255, 255, 255, .4);
+    font-size: 14px;
+    transition: color 0.80s;
+}
+
+.template-copy a:hover{
+    color: white;
+}

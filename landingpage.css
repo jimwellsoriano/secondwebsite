@@ -1,0 +1,145 @@
+.landing-page-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 700px;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    background-color: rgb(21, 23, 33);
+    background-image: radial-gradient(circle, rgb(81, 89, 126), rgb(21, 23, 33));
+}
+
+.Landing-Page{
+    font-size: 36px;
+    font-weight: 600;
+    font-family: Poppins, arial;
+    color: white;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.price{
+    font-size: 50px;
+    font-weight: 700;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.product-watch{
+    margin-right: 90px;
+    margin-left: 50px;
+}
+
+.raised-by{
+    color: rgba(255, 255, 255, .8);
+    font-weight: 400;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.underline hr{
+    height: 28px;
+    border-radius: 5px;
+    width: 400px;
+    background-color: rgba(255, 255, 255, .1);
+    border-left-color: rgb(0, 238, 255);
+    border-left-width: 320px;
+     margin: 0;
+     margin-bottom: 20px;
+}
+
+.goal-container{
+    display: flex;
+    flex-direction: column;
+    color:rgba(255, 255, 255, .8);
+ 
+}
+
+.BACK-US-NOW-button{
+    height: 55px;
+    width: 220px;
+    background-color: rgb(54, 184, 67);
+    border: none;
+    font-size: 20px;
+    color: white;
+    font-family: Poppins, arial;
+    font-weight: 600;
+    border-radius: 50px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    transition: background-color 0.20s;
+}
+
+.BACK-US-NOW-button:hover{
+    background-color: rgb(70, 218, 84);
+}
+
+.numbers{
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+    
+}
+
+.text{
+    font-size: 15px;
+    font-weight: 300;
+    color: rgba(255, 255, 255, .8);
+}
+
+.remaining{
+    font-size: 17px;
+    font-weight: 400;
+    color:white;
+    margin-left: 5px;
+}
+
+.Onboard-has-everything{
+    color: white;
+    width: 700px;
+    font-size: 15px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.Onboard-has-everything a{
+    text-decoration: none;
+    color: rgb(0, 188, 212);
+    transition: text-decoration 0.15s;
+}
+
+.Onboard-has-everything a:hover{
+    text-decoration: underline;
+
+}
+
+.icon-container{
+    display: flex;
+  
+}
+
+.icon-container div{
+    color:rgb(81, 89, 126) ;
+    font-size: 22px;
+    display: flex;
+    align-items: center;
+    width: 40px;
+    justify-content: center;
+    height: 40px;
+    background-color: rgba(255, 255, 255, .8);
+    border-radius: 50px;
+    margin-right: 20px;
+    transition: background-color 0.15s;
+}
+
+.icon-container div:hover{
+    background-color: rgba(255, 255, 255, 0158);
+}
+
+
+.landing-page-child{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}

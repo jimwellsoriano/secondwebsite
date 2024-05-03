@@ -1,0 +1,12 @@
+div {
+    font-family: Poppins, sans-serif;
+}
+
+body{
+    margin: 0;
+    height: 4000px;
+}
+
+html {
+    scroll-behavior: smooth;
+}

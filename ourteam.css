@@ -1,0 +1,51 @@
+.section-our-team{
+    padding-top: 90px;
+    padding-bottom: 140px;
+}
+
+.OUR-TEAM{
+    color: rgb(54, 67, 90);
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.profile-description-container img{
+    margin-bottom: 20px;
+}
+
+.profile-name{
+    color: rgb(54, 67, 90);
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.Co-founder{
+    color: rgb(54, 67, 90);
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+
+.Aenean-vulputate{
+    color: rgb(54, 67, 90);
+    font-size: 15px;
+    text-align: center;
+}
+
+.our-team-container-profile{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 40px;
+    column-gap: 100px;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+.profile-description-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
